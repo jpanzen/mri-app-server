@@ -1,0 +1,76 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "name": "Jan Novák",
+      "age": 35,
+      "gender": "Male",
+      "email": "jan.novak@example.com",
+      "phone": "+420 730 431 691",
+      "address": "Hlavní 123, Praha, 11000, Czech Republic",
+      "photoUrl": "https://example.com/photos/jan_novak.jpg",
+      "mriUrl": "https://example.com/mri/jan_novak.jpg",
+      "diagnosis": "Lorem ipsum dolor sit amet."
+    },
+    {
+      "id": "2",
+      "name": "Eva Kovářová",
+      "age": 28,
+      "gender": "Female",
+      "email": "eva.kovarova@example.com",
+      "phone": "+420 730 123 456",
+      "address": "Vinohradská 45, Praha, 12000, Czech Republic",
+      "photoUrl": "https://example.com/photos/eva_kovarova.jpg",
+      "mriUrl": "https://example.com/mri/eva_kovarova.jpg",
+      "diagnosis": "Dolor sit amet consectetuer adipiscing elit."
+    },
+    {
+      "id": "3",
+      "name": "Petr Svoboda",
+      "age": 42,
+      "gender": "Male",
+      "email": "petr.svoboda@example.com",
+      "phone": "+420 730 987 654",
+      "address": "Malostranské náměstí 8, Praha, 11000, Czech Republic",
+      "photoUrl": "https://example.com/photos/petr_svoboda.jpg",
+      "mriUrl": "https://example.com/mri/petr_svoboda.jpg",
+      "diagnosis": "Etiam euismod diam in est cursus, eget scelerisque risus malesuada."
+    },
+    {
+      "id": "4",
+      "name": "Lucie Dvořáková",
+      "age": 55,
+      "gender": "Female",
+      "email": "lucie.dvorakova@example.com",
+      "phone": "+420 730 234 567",
+      "address": "Karla IV. 99, Brno, 60200, Czech Republic",
+      "photoUrl": "https://example.com/photos/lucie_dvorakova.jpg",
+      "mriUrl": "https://example.com/mri/lucie_dvorakova.jpg",
+      "diagnosis": "Aenean mollis libero sit amet ex tincidunt, eget volutpat nulla."
+    },
+    {
+      "id": "5",
+      "name": "Martin Černý",
+      "age": 60,
+      "gender": "Male",
+      "email": "martin.cerny@example.com",
+      "phone": "+420 730 876 543",
+      "address": "Na Příkopě 120, Ostrava, 70200, Czech Republic",
+      "photoUrl": "https://example.com/photos/martin_cerny.jpg",
+      "mriUrl": "https://example.com/mri/martin_cerny.jpg",
+      "diagnosis": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "6",
+      "name": "Alena Novotná",
+      "age": 50,
+      "gender": "Female",
+      "email": "alena.novotna@example.com",
+      "phone": "+420 730 654 321",
+      "address": "Náměstí Svobody 25, Brno, 60100, Czech Republic",
+      "photoUrl": "https://example.com/photos/alena_novotna.jpg",
+      "mriUrl": "https://example.com/mri/alena_novotna.jpg",
+      "diagnosis": "Morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    }
+  ]
+}
