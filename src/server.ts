@@ -9,6 +9,8 @@ const jsonData = JSON.parse(rawData);
 const schema = buildSchema(`
   type Query {
     getPatients: [Patient]
+    searchPatientByName(name: String!): [Patient]
+    searchPatientById(id: String!): Patient
   }
 
   type Patient {
@@ -27,15 +29,26 @@ const schema = buildSchema(`
 
 const root = {
   getPatients: () => jsonData.patients,
+  
+  searchPatientByName: ({ name }: { name: string }) =>
+    jsonData.patients.filter((patient: any) =>
+      patient.name.toLowerCase().includes(name.toLowerCase())
+    ),
+  
+  searchPatientById: ({ id }: { id: string }) => 
+    jsonData.patients.find((patient: any) => patient.id === id),
 };
 
 const app = express();
 
-app.use('/graphql', graphqlHTTP({
-  schema: schema,
-  rootValue: root,
-  graphiql: true,
-}));
+app.use(
+  '/graphql',
+  graphqlHTTP({
+    schema: schema,
+    rootValue: root,
+    graphiql: true,
+  })
+);
 
 app.listen(4000, () => {
   console.log('Server běží na http://localhost:4000/graphql');
