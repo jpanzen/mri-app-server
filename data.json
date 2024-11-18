@@ -10,7 +10,7 @@
       "address": "Hlavní 123, Praha, 11000, Czech Republic",
       "photoUrl": "https://example.com/photos/jan_novak.jpg",
       "mriUrl": "https://example.com/mri/jan_novak.jpg",
-      "diagnosis": "Lorem ipsum dolor sit amet."
+      "diagnosis": "Nová diagnózaaaaaa"
     },
     {
       "id": "2",
@@ -22,7 +22,7 @@
       "address": "Vinohradská 45, Praha, 12000, Czech Republic",
       "photoUrl": "https://example.com/photos/eva_kovarova.jpg",
       "mriUrl": "https://example.com/mri/eva_kovarova.jpg",
-      "diagnosis": "Dolor sit amet consectetuer adipiscing elit."
+      "diagnosis": "Dolor sit amet consectetuer adipiscing elit...."
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "address": "Malostranské náměstí 8, Praha, 11000, Czech Republic",
       "photoUrl": "https://example.com/photos/petr_svoboda.jpg",
       "mriUrl": "https://example.com/mri/petr_svoboda.jpg",
-      "diagnosis": "Etiam euismod diam in est cursus, eget scelerisque risus malesuada."
+      "diagnosis": "Etiam euismod diam in est cursus, eget scelerisque risus malesuada"
     },
     {
       "id": "4",
