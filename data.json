@@ -10,7 +10,7 @@
       "address": "Hlavní 123, Praha, 11000, Czech Republic",
       "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
       "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
-      "diagnosis": "Nová diagnózaaaaaaNová diagnózaaaaaa"
+      "diagnosis": "Nová diagnózaaaaaaNová diagnózaaaaaadfgdfg"
     },
     {
       "id": "2",
@@ -20,9 +20,9 @@
       "email": "eva.kovarova@example.com",
       "phone": "+420 730 123 456",
       "address": "Vinohradská 45, Praha, 12000, Czech Republic",
-      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/evusi57zcprzkrxf0trr.jpg",
       "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
-      "diagnosis": "Dolor sit amet consectetuer adipiscing elit........................."
+      "diagnosis": "Dolor sit amet consectetuer adipiscing elit.........................ljhzuibn"
     },
     {
       "id": "3",
@@ -32,7 +32,7 @@
       "email": "petr.svoboda@example.com",
       "phone": "+420 730 987 654",
       "address": "Malostranské náměstí 8, Praha, 11000, Czech Republic",
-      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/niu7exgkltcxj4gztdtc.jpg",
       "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
       "diagnosis": "Etiam euismod diam in est cursus, eget scelerisque risus malesuada"
     },
@@ -44,7 +44,7 @@
       "email": "lucie.dvorakova@example.com",
       "phone": "+420 730 234 567",
       "address": "Karla IV. 99, Brno, 60200, Czech Republic",
-      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/vbityaqtdoufpx8anwbg.jpg",
       "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
       "diagnosis": "Aenean mollis libero sit amet ex tincidunt, eget volutpat nulla."
     },
@@ -56,7 +56,7 @@
       "email": "martin.cerny@example.com",
       "phone": "+420 730 876 543",
       "address": "Na Příkopě 120, Ostrava, 70200, Czech Republic",
-      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/n4uhfeuwtdkqamygwuge.jpg",
       "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
       "diagnosis": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
@@ -68,9 +68,57 @@
       "email": "alena.novotna@example.com",
       "phone": "+420 730 654 321",
       "address": "Náměstí Svobody 25, Brno, 60100, Czech Republic",
-      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1732008624/mri-app/pac6.jpg",
       "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
       "diagnosis": "Morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+      "id": "7",
+      "name": "Tomáš Hlaváč",
+      "age": 45,
+      "gender": "Male",
+      "email": "tomas.hlavac@example.com",
+      "phone": "+420 730 333 444",
+      "address": "Slovanská 78, Plzeň, 30100, Czech Republic",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1732008624/mri-app/pac7.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
+      "diagnosis": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae."
+    },
+    {
+      "id": "8",
+      "name": "Hana Malá",
+      "age": 38,
+      "gender": "Female",
+      "email": "hana.mala@example.com",
+      "phone": "+420 730 555 666",
+      "address": "Husova 23, Liberec, 46001, Czech Republic",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1732008624/mri-app/pac8.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
+      "diagnosis": "Nullam vehicula turpis ac augue tristique, nec scelerisque erat sollicitudin."
+    },
+    {
+      "id": "9",
+      "name": "Karel Horák",
+      "age": 29,
+      "gender": "Male",
+      "email": "karel.horak@example.com",
+      "phone": "+420 730 777 888",
+      "address": "Jiráskova 56, Hradec Králové, 50003, Czech Republic",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1732008624/mri-app/pac9.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
+      "diagnosis": "Praesent fermentum urna nec felis sodales, a tincidunt tortor interdum."
+    },
+    {
+      "id": "10",
+      "name": "Petra Králová",
+      "age": 40,
+      "gender": "Female",
+      "email": "petra.kralova@example.com",
+      "phone": "+420 730 999 000",
+      "address": "Masarykovo náměstí 12, Jihlava, 58601, Czech Republic",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
+      "diagnosis": "Duis auctor erat a felis accumsan, a laoreet justo sollicitudin."
     }
   ]
 }
