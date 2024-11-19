@@ -8,9 +8,9 @@
       "email": "jan.novak@example.com",
       "phone": "+420 730 431 691",
       "address": "Hlavní 123, Praha, 11000, Czech Republic",
-      "photoUrl": "https://example.com/photos/jan_novak.jpg",
-      "mriUrl": "https://example.com/mri/jan_novak.jpg",
-      "diagnosis": "Nová diagnózaaaaaa"
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
+      "diagnosis": "Nová diagnózaaaaaaNová diagnózaaaaaa"
     },
     {
       "id": "2",
@@ -20,9 +20,9 @@
       "email": "eva.kovarova@example.com",
       "phone": "+420 730 123 456",
       "address": "Vinohradská 45, Praha, 12000, Czech Republic",
-      "photoUrl": "https://example.com/photos/eva_kovarova.jpg",
-      "mriUrl": "https://example.com/mri/eva_kovarova.jpg",
-      "diagnosis": "Dolor sit amet consectetuer adipiscing elit...."
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
+      "diagnosis": "Dolor sit amet consectetuer adipiscing elit........................."
     },
     {
       "id": "3",
@@ -32,8 +32,8 @@
       "email": "petr.svoboda@example.com",
       "phone": "+420 730 987 654",
       "address": "Malostranské náměstí 8, Praha, 11000, Czech Republic",
-      "photoUrl": "https://example.com/photos/petr_svoboda.jpg",
-      "mriUrl": "https://example.com/mri/petr_svoboda.jpg",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
       "diagnosis": "Etiam euismod diam in est cursus, eget scelerisque risus malesuada"
     },
     {
@@ -44,8 +44,8 @@
       "email": "lucie.dvorakova@example.com",
       "phone": "+420 730 234 567",
       "address": "Karla IV. 99, Brno, 60200, Czech Republic",
-      "photoUrl": "https://example.com/photos/lucie_dvorakova.jpg",
-      "mriUrl": "https://example.com/mri/lucie_dvorakova.jpg",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
       "diagnosis": "Aenean mollis libero sit amet ex tincidunt, eget volutpat nulla."
     },
     {
@@ -56,8 +56,8 @@
       "email": "martin.cerny@example.com",
       "phone": "+420 730 876 543",
       "address": "Na Příkopě 120, Ostrava, 70200, Czech Republic",
-      "photoUrl": "https://example.com/photos/martin_cerny.jpg",
-      "mriUrl": "https://example.com/mri/martin_cerny.jpg",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
       "diagnosis": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
@@ -68,8 +68,8 @@
       "email": "alena.novotna@example.com",
       "phone": "+420 730 654 321",
       "address": "Náměstí Svobody 25, Brno, 60100, Czech Republic",
-      "photoUrl": "https://example.com/photos/alena_novotna.jpg",
-      "mriUrl": "https://example.com/mri/alena_novotna.jpg",
+      "photoUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962282/mri-app/muiwpb290grg1tpmdgxs.jpg",
+      "mriUrl": "https://res.cloudinary.com/dqj7b3wti/image/upload/v1731962281/mri-app/r5keffbfifozxfddc9kd.jpg",
       "diagnosis": "Morbi tristique senectus et netus et malesuada fames ac turpis egestas."
     }
   ]
